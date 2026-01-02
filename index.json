@@ -1,0 +1,37 @@
+{
+  "name": "HageMangas",
+  "pkg": "hagemangas.repo",
+  "apk": "",
+  "lang": "tr",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Merlintoon",
+      "pkg": "eu.kanade.tachiyomi.extension.tr.merlintoon",
+      "version": "1.0.0",
+      "apk": "apk/merlintoon.apk",
+      "lang": "tr"
+    },
+    {
+      "name": "WebtoonHatti",
+      "pkg": "eu.kanade.tachiyomi.extension.tr.webtoonhatti",
+      "version": "1.0.0",
+      "apk": "apk/webtoonhatti.apk",
+      "lang": "tr"
+    },
+    {
+      "name": "MangaRuhu",
+      "pkg": "eu.kanade.tachiyomi.extension.tr.mangaruhu",
+      "version": "1.0.0",
+      "apk": "apk/mangaruhu.apk",
+      "lang": "tr"
+    },
+    {
+      "name": "UzayManga",
+      "pkg": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
+      "version": "1.0.0",
+      "apk": "apk/uzaymanga.apk",
+      "lang": "tr"
+    }
+  ]
+}
